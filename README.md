@@ -1,4 +1,2 @@
 # Data-Analysis-Projects
-Data Analysis of various datasets:
-
-1. World Happiness Report
+Data Analysis of the World Happiness Report, we are performing exploratory data analysis and attempting to find relationships between the provided variables and a country's 'Happiness Score'.
